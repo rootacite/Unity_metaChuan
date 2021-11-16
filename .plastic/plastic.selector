@@ -1,0 +1,4 @@
+repository "SunXiaoChuanWalk@ssl://wechat_os_qy09jpuflx7yftdtqqbppbfhi@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
